@@ -8,11 +8,11 @@ The COVID-19 pandemic profoundly impacted the global economy, leading to signifi
 
 ### Objectives:
 
-	1. #### Data Cleaning:
+1. **Data Cleaning**:
 	- Identify and handle missing, duplicate, or inconsistent data.
 	- Standardize data formats for dates, company names, and other relevant fields.
 	- Validate the accuracy of the layoff records.
-	2. #### Exploratory Data Analysis (EDA)**:
+2. **Exploratory Data Analysis (EDA)**:
 	- Analyze the distribution and frequency of layoffs over the specified period.
 	- Identify the most affected industries and regions.
 	- Examine the relationship between layoffs and other factors such as company size, industry type, and geographic location.
