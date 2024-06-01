@@ -17,10 +17,10 @@ The COVID-19 pandemic profoundly impacted the global economy, leading to signifi
 	- Examine the relationship between layoffs and other factors such as company size, industry type, and geographic location.
 
 ### Key Activities:
-- Data Collection: Gather layoff data from reliable sources for the specified period.
-- Data Preprocessing: Clean and preprocess the data to prepare it for analysis.
-- Descriptive Statistics: Calculate key statistics to summarize the data.
-- Insights Generation: Interpret the results to draw meaningful conclusions about the layoff trends during the COVID-19 era.
+- **Data Collection**: Gather layoff data from reliable sources for the specified period.
+- **Data Preprocessing**: Clean and preprocess the data to prepare it for analysis.
+- **Descriptive Statistics**: Calculate key statistics to summarize the data.
+- **Insights Generation**: Interpret the results to draw meaningful conclusions about the layoff trends during the COVID-19 era.
 
 ### Tools and Technologies:
 - **SQL**: For data cleaning, preprocessing, and querying.
