@@ -5,9 +5,9 @@ Welcome to my GitHub data science portfolio! This repository showcases my expert
 
   **1. COVID-19 Layoffs Analysis (March 2020 - March 2023).**
 
-  > - **Description**: An in-depth analysis of layoffs across various companies during the COVID-19 pandemic. This project focuses on data cleaning, EDA, and trend analysis.
-  > - **Key Skills**: Data cleaning, aggregation, conditional statements, window functions, CTEs.
-  > - **Technologies Used**: SQL.
+  - **Description**: An in-depth analysis of layoffs across various companies during the COVID-19 pandemic. This project focuses on data cleaning, EDA, and trend analysis.
+  - **Key Skills**: Data cleaning, aggregation, conditional statements, window functions, CTEs.
+  - **Technologies Used**: SQL.
 
 **Repository Structure**
 - **/projects**: Contains individual project folders with datasets, SQL scripts, and detailed readme files explaining the project objectives, methodologies, and findings.
