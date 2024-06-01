@@ -1,5 +1,4 @@
-# Analyzing Layoffs During the COVID-19 Era: A Data Cleaning and Exploratory Data Analysis Project on Company Layoffs from March 2020 to March 2023
-
+# Analyzing Layoffs During the COVID-19 Era
 
 ### Project Description:
 **Analyzing Layoffs During the COVID-19 Era**: *A Data Cleaning and Exploratory Data Analysis Project on Company Layoffs from March 2020 to March 2023*
