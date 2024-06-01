@@ -14,6 +14,7 @@ Welcome to my GitHub data science portfolio! This repository showcases my expert
 - **/docs**: Additional documentation and resources, including SQL tutorials and best practices.
 
 **About Me**
+
 I am a data science enthusiast with a strong foundation in SQL and a passion for uncovering insights from data. My projects reflect my ability to handle complex datasets, perform thorough data analysis, and present findings in a clear and actionable manner. I will continuously learn and apply new techniques to enhance my skills and contribute to impactful data-driven projects.
 
 Feel free to explore my portfolio, review the projects, and reach out if you have any questions or collaboration ideas. Thank you for visiting!
